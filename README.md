@@ -21,5 +21,7 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 ![proj](https://user-images.githubusercontent.com/102194150/181995363-1252ae3d-bc63-4446-a5fb-eb20ee1f5ab1.jpg)
 
 # Vídeo demonstrativo:
+Tamanho maior que 100MB, assim fica o link do drive:
+https://drive.google.com/file/d/1m_6Y10k2mT53I9KyH7i8DNb5Wa1bqdPv/view
 
 # Schematic do projeto:
