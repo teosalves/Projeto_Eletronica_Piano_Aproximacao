@@ -18,7 +18,7 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 # Código fonte do Arduíno (C++):
 
 # Imagem do projeto:
-![proj](https://user-images.githubusercontent.com/102194150/181995363-1252ae3d-bc63-4446-a5fb-eb20ee1f5ab1.jpg)
+![proj](https://user-images.githubusercontent.com/102194150/181995363-1252ae3d-bc63-4446-a5fb-eb20ee1f5ab1.jpg | width=100)
 
 # Vídeo demonstrativo:
 Tamanho maior que 100MB, assim fica o link do drive:
