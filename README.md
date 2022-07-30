@@ -22,6 +22,6 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 <img src="https://github.com/teosalves/Projeto_Eletronica_Piano_Aproximacao/blob/main/proj.jpg" width="400" height="400" />
 
 # Vídeo demonstrativo:
-<vid src="https://github.com/teosalves/Projeto_Eletronica_Piano_Aproximacao/blob/main/Video-Eletronica-720p.m4v" />
+<img src="https://github.com/teosalves/Projeto_Eletronica_Piano_Aproximacao/blob/main/Video-Eletronica-720p.m4v" />
 
 # Schematic do projeto:
