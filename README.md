@@ -14,6 +14,16 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 
 
 # Código fonte em Python:
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```
+  int main(){
+    return 0;
+  }
+  ```
+</details>
 
 # Código fonte do Arduíno (C++):
 
