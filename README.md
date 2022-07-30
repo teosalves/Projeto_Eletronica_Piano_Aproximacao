@@ -14,3 +14,11 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 
 
 # Código fonte em Python:
+
+# Código fonte do Arduíno (C++):
+
+# Imagem do projeto:
+
+# Vídeo demonstrativo:
+
+# Schematic do projeto:
