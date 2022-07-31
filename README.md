@@ -178,12 +178,14 @@ if __name__ == "__main__":
 
 <details>
   <summary>Clique aqui para abrir o código fonte.</summary>
+  
   ```
   int main(int argc, char **argv){
     
    return 0;
  }
- ```
+  
+  ```
 </details>
 
 # Imagem do projeto:
