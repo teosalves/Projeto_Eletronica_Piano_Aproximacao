@@ -13,7 +13,7 @@ o arduíno e para o computador, que reproduz a nota mais próxima definida na ca
 (eg. distância atual = 4.7 cm, ré = 4.0 cm, ré sustenido = 5.0 cm, o som reproduzido pelo pc será ré sustenido).
 
 
-# Código fonte em Python:
+# Código fonte do programa em Python:
 <details>
   <summary>Clique aqui para abrir o código fonte.</summary>
   
