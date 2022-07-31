@@ -176,6 +176,15 @@ if __name__ == "__main__":
 
 # Código fonte do Arduíno (C++):
 
+<details>
+  <summary>Clique aqui para abrir o código fonte.</summary>
+  ```
+  int main(int argc, char **argv){
+    
+   return 0;
+ }
+</details>
+
 # Imagem do projeto:
 
 <img src="https://github.com/teosalves/Projeto_Eletronica_Piano_Aproximacao/blob/main/proj.jpg" width="400" height="400" />
