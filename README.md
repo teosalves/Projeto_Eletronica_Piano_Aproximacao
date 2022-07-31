@@ -179,13 +179,30 @@ if __name__ == "__main__":
 <details>
   <summary>Clique aqui para abrir o código fonte.</summary>
   
-  ```
-  int main(int argc, char **argv){
-    
-   return 0;
- }
+```
+ #include <NewPing.h>
+
+#define TRIGGER_PIN 7
+#define ECHO_PIN 8
+#define MAX_DISTANCE 200
+
+#define NUM_PINGS 5
+
+NewPing sensor(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  while (Serial.available()) {
+    char k = Serial.read();
+    if (k == 'a')
+      Serial.println(sensor.ping_median(NUM_PINGS) / 57.);
+  }
+}
   
-  ```
+```
 </details>
 
 # Imagem do projeto:
